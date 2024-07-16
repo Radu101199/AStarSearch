@@ -1,0 +1,129 @@
+{
+  "Harta": {
+    "Oslo": {
+      "Helsinki": 970,
+      "Stockholm": 570
+    },
+    "Helsinki": {
+      "Oslo":970,
+      "Stockholm":400
+    },
+    "Stockholm": {
+      "Oslo": 570,
+      "Helsinki": 400,
+      "Copenhagen": 522
+    },
+    "Copenhagen": {
+      "Stockholm": 522,
+      "Warsaw": 668,
+      "Berlin": 743
+    },
+    "Berlin": {
+      "Copenhagen": 743,
+      "Prague": 354,
+      "Amsterdam": 648
+    },
+    "Warsaw":{
+      "Copenhagen": 668,
+      "Bucharest": 946
+    },
+    "Bucharest": {
+      "Budapest": 900,
+      "Warsaw": 946,
+      "Athens": 1300
+    },
+    "Athens": {
+      "Bucharest": 1300,
+      "Palermo": 907
+    },
+    "Palermo": {
+      "Rome": 1043,
+      "Athens":907
+    },
+    "Rome": {
+      "Milan": 681,
+      "Palermo": 1043,
+      "Barcelona": 1471
+    },
+    "Milan":{
+      "Rome": 681,
+      "Budapest": 789
+    },
+    "Budapest": {
+      "Bucharest": 900,
+      "Milan": 789,
+      "Belgrade": 316,
+      "Prague": 443
+    },
+    "Belgrade": {
+      "Budapest": 316,
+      "Sofia": 330
+    },
+    "Sofia": {
+      "Belgrade": 330
+    },
+    "Prague": {
+      "Budapest": 443,
+      "Berlin": 354,
+      "Vienna": 312
+    },
+    "Vienna": {
+      "Prague": 312,
+      "Munich": 458
+    },
+    "Munich": {
+      "Vienna": 458,
+      "Lyon": 753
+    },
+    "Lyon": {
+      "Munich": 753,
+      "Paris": 481,
+      "Bordeaux": 542,
+      "Barcelona": 644
+    },
+    "Barcelona": {
+      "Madrid": 628,
+      "Rome": 1471,
+      "Lyon": 644
+    },
+    "Madrid": {
+      "Barcelona": 628,
+      "Lisbon": 638
+    },
+    "Lisbon": {
+      "Madrid": 638,
+      "London": 2210
+    },
+    "London": {
+      "Lisbon": 2210,
+      "Paris": 414,
+      "Dublin": 463,
+      "Glasgow": 667
+    },
+    "Paris": {
+      "London": 414,
+      "Bordeaux": 579,
+      "Lyon": 481
+    },
+    "Bordeaux": {
+      "Paris": 579,
+      "Lyon": 542
+    },
+    "Dublin": {
+      "London": 463,
+      "Glasgow": 306
+    },
+    "Glasgow": {
+      "London": 667,
+      "Dublin": 306,
+      "Amsterdam": 711
+    },
+    "Amsterdam": {
+      "Glasgow": 711,
+      "Berlin": 648
+    },
+    "Constanta": {
+      "Constanta": 0
+    }
+  }
+}
